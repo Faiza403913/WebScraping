@@ -1,5 +1,6 @@
 
-# Web Scraping Project: El País Opinion Section
+# Web Scraping Project:
+
 
 This project demonstrates web scraping, API integration, text processing, and cross-browser testing skills. The script fetches articles from the "Opinión" section of **El País**, extracts article titles, content, images, translates titles to English using RapidAPI, analyzes repeated words, and performs cross-browser parallel testing using **BrowserStack**.
 
